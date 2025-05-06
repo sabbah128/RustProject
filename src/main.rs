@@ -1,9 +1,9 @@
 fn do_something() {
-    println!("Hello Kian!")
+    println!("Hello Kian!");
 }
 
 fn main() {
-    for i in 0..100 {
+    for _i in 0..10 {
         do_something();
     }
 }
