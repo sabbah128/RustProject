@@ -1,5 +1,5 @@
 fn do_something() {
-    println!("Hello Kian!");
+    println!("Hello Kian again!");
 }
 
 fn main() {
